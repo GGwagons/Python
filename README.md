@@ -1,3 +1,4 @@
+<body alighn="right">
 <h1>guess_num.py</h1>
 
 <h2>Overview</h2>
@@ -72,3 +73,4 @@ Guess The Number: 25
 Congratulations You Did It In 2 Tries
 THE WINNING NUMBER WAS: 25
 </code></pre>
+</body>

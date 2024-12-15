@@ -1,0 +1,3 @@
+USERNAME //-> replace with username or email
+PASSWORD // -> replace with your password
+URLS //-> url to the webpage
